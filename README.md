@@ -1,4 +1,4 @@
-# declartive_navigation
+# flutter_navigation_part_1
 
 A new Flutter project.
 
