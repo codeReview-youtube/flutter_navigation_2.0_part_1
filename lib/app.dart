@@ -1,8 +1,10 @@
-import 'package:declartive_navigation/models/recipe_model.dart';
-import 'package:declartive_navigation/screens/recipe_detail_screen.dart';
-import 'package:declartive_navigation/screens/recipes_screen.dart';
-import 'package:declartive_navigation/screens/unknown_screen.dart';
+
 import 'package:flutter/material.dart';
+import 'package:flutter_navigation_part_1/screens/recipe_detail_screen.dart';
+import 'package:flutter_navigation_part_1/screens/recipes_screen.dart';
+import 'package:flutter_navigation_part_1/screens/unknown_screen.dart';
+
+import 'models/recipe_model.dart';
 
 class App extends StatefulWidget {
   // This widget is the root of your application.

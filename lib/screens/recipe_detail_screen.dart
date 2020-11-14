@@ -1,5 +1,5 @@
-import 'package:declartive_navigation/models/recipe_model.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_navigation_part_1/models/recipe_model.dart';
 
 class RecipeDetailsScreen extends StatelessWidget {
   final Recipe recipe;
